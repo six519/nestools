@@ -1,3 +1,4 @@
+# test
 FROM fedora:30
 RUN yum -y install wget wine unzip
 WORKDIR /app
